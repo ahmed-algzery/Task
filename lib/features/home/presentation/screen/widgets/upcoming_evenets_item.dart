@@ -76,7 +76,7 @@ class UpcomingEvenetsItem extends StatelessWidget {
                         image: const DecorationImage(
                           fit: BoxFit.fill, // Image fills the container.
                           image: CachedNetworkImageProvider(
-                              "https://images.unsplash.com/photo-1485178075098-49f78b4b43b4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8ZXZlbnR8ZW58MHx8MHx8fDA%3D"),
+                              "https://plus.unsplash.com/premium_photo-1663089174939-5870e2e8d62e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGV2ZW50fGVufDB8fDB8fHww"),
                         ),
                       ),
                       child: Align(
